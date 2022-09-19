@@ -11,6 +11,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "ant-design-vue": "^3.2.12",
     "vue": "^3.2.37"
   },
   "devDependencies": {
